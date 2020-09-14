@@ -1,0 +1,2 @@
+rootProject.name = "Compose-mitbin-client"
+include ':app'
